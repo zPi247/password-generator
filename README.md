@@ -14,7 +14,7 @@ Username: 【用户名】
 E-mail/phone number: 【注册邮箱/电话】
 Password: 【密码】
 ```
-的格式存储在一个叫做 password-collection.txt 的文档里，以便之后使用。
+的格式存储在一个叫做`password-collection.txt` 的文档里，以便之后使用。
 ## INTRO
 A password generator that generates&saves random passwords.
 ## INSTALLATION
@@ -27,4 +27,4 @@ Username: XXX
 E-mail/phone number: XXX
 Password: XXX
 ```
-in a file named password-collection.txt
+in a file named `password-collection.txt`
